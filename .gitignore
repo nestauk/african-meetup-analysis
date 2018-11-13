@@ -9,6 +9,7 @@ __pycache__/
 /data
 /models
 .DS_Store
+innovation-mapping.config
 
 # Distribution / packaging
 .Python
